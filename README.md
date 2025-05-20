@@ -17,7 +17,7 @@ I’m wrapping up my Computer Engineering degree at the University of Guelph, an
 
 ### A bit of my background
 - **Robotic Systems Intern @ Haggerty AgRobotics**  
-  Integrated FLIR/JAI cameras, built C++ pipelines & Python scripts, and wrangled RTK-guided farm robots.  
+  Integrated FLIR/JAI cameras, built C++ pipelines & Python scripts, and programmed RTK-guided farm robots.  
 - **TA, Robotic Systems @ U of G**  
   Ran labs on kinematics, Jacobians, and ROS-driven manipulators.  
 - **Quality Engineering Intern @ Denso**  
