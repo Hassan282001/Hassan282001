@@ -23,11 +23,6 @@ I’m wrapping up my Computer Engineering degree at the University of Guelph, an
 - **Quality Engineering Intern @ Denso**  
   Used Six Sigma to cut defects 10% and ran NPI testing & signal-integrity checks.  
 
-### Projects I’m proud of
-- **FPGA Obstacle Detection:** Custom Sobel IP delivering 6.5× throughput boost  
-- **8-bit Program Counter:** Full schematic & layout with timing sign-off  
-- **AES Accelerator:** 128-bit CBC/OFB coprocessor on FPGA  
-
 ---
 
 Let’s connect!  
